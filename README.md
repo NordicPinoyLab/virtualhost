@@ -6,7 +6,7 @@ Script to create or delete Apache virtualhosts with corresponding public and log
 
 ```bash
 $ cd /usr/local/bin
-$ sudo wget -O virtualhost https://raw.githubusercontent.com/NordicPinoyLab/virtualhost/master/virtualhost.sh
+$ sudo wget -O virtualhost https://raw.githubusercontent.com/NordicPinoyLab/virtualhost/main/virtualhost.sh
 $ sudo chmod +x virtualhost
 ```
 
